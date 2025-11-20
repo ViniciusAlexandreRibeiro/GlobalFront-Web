@@ -33,8 +33,8 @@ Esta aplicação não possui sistema de autenticação. Todos os dados são exib
 
 1. **Clone o repositório** (ou extraia o arquivo compactado)
 ```bash
-git clone [URL_DO_REPOSITORIO]
-cd futuro-trabalho
+git clone https://github.com/ViniciusAlexandreRibeiro/GlobalFront-Web.git
+cd GlobalFront-Web
 ```
 
 2. **Instale as dependências**
@@ -171,9 +171,9 @@ futuro-trabalho/
 
 ## 🌐 Deploy
 
-**Link do Deploy:** [A SER ADICIONADO]
+**Link do Deploy:** https://global-front-web.vercel.app/
 
-*Observação: O deploy pode ser feito em plataformas como Vercel, Netlify ou GitHub Pages.*
+*Deploy realizado na plataforma Vercel com integração contínua ao repositório GitHub.*
 
 ### Como fazer deploy na Vercel:
 
@@ -189,7 +189,7 @@ vercel
 
 ## 📂 Repositório
 
-**Link do Repositório GitHub:** [A SER ADICIONADO]
+**Link do Repositório GitHub:** https://github.com/ViniciusAlexandreRibeiro/GlobalFront-Web
 
 ## 📝 Notas de Desenvolvimento
 
